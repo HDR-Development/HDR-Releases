@@ -1,3 +1,4 @@
+
 # HDR-Releases
 The official stable release channel for HewDraw Remix, the largest and most ambitious overhaul for Super Smash Bros. Ultimate.
 
@@ -16,7 +17,11 @@ You will need to copy the contents of the Ryujinx zip into `\AppData\Roaming\Ryu
 
 If you encounter any difficulties when installing the mod, please consult the #help-questions channel in the official discord over at [discord.gg/hdr.](https://discord.gg/hdr)
 
+## Uninstall
+
+If you are on Switch and wish to uninstall HDR, delete all folders starting with hdr in `/ultimate/mods` on your SD card.
+
+If you are on Ryujinx, this path is `/AppData/Roaming/Ryujinx/sdcard/ultimate/mods`.
+
 ## Legal Disclaimer
 HewDraw Remix is a free to play fan-made modification of Super Smash Bros. Ultimate. The HewDraw Remix Dev Team does not support piracy or any illegal actions that may harm Nintendo or other copyright holders involved in the base game, and their intellectual properties. HewDraw Remix is not endorsed by or associated with Nintendo or any of the companies involved with the Super Smash Bros. series in any way.
-
-The HewDraw Remix development team does not condone or support piracy. This includes the illegitimate distribution of NSPs, XCI, NCA, etc. Any user in our Discord community who guides people on how to get pirated content, or helps people receive pirated content, will be met with an immediate tempban for 72 hours and potentially more.
