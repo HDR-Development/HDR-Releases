@@ -1,5 +1,5 @@
 # HDR-Releases
-The official stable downloads page for HewDraw Remix, the largest and most ambitious overhaul for Super Smash Bros. Ultimate.
+The official stable release channel for HewDraw Remix, the largest and most ambitious overhaul for Super Smash Bros. Ultimate.
 
  ### What's the difference between this and the other download page?
 
