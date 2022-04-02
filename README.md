@@ -20,8 +20,10 @@ If you encounter any difficulties when installing the mod, please consult the #h
 ## Uninstall
 
 If you are on Switch and wish to uninstall HDR, delete all folders starting with hdr in `/ultimate/mods` on your SD card.
+If you are on Ryujinx, the path is `/AppData/Roaming/Ryujinx/sdcard/ultimate/mods`.
 
-If you are on Ryujinx, this path is `/AppData/Roaming/Ryujinx/sdcard/ultimate/mods`.
+You can also indefinitely disable HDR by going into the ingame ARCropolis eShop mod manager and toggling off all HDR related folders. 
+Holding L while starting the game will guarantee all mods are temporarily disabled regardless on if the mod is crashing or this menu is somehow inaccessible. 
 
 ## Legal Disclaimer
 HewDraw Remix is a free to play fan-made modification of Super Smash Bros. Ultimate. The HewDraw Remix Dev Team does not support piracy or any illegal actions that may harm Nintendo or other copyright holders involved in the base game, and their intellectual properties. HewDraw Remix is not endorsed by or associated with Nintendo or any of the companies involved with the Super Smash Bros. series in any way.
