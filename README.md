@@ -4,7 +4,7 @@ The official stable downloads page for HewDraw Remix, the largest and most ambit
  ### What's the difference between this and the other download page?
 
  
-The other repository is dedicated to the [experimental nightly builds](https://github.com/HDR-Development/HDR-Nightlies). If all you intend to do is play the stable releases like the vast majority of users, you're already in the right place and should navigate to the [releases page here to download the HDR installer.](https://github.com/HDR-Development/HDR-Releases/releases)
+The other repository is dedicated to the [experimental nightly builds](https://github.com/HDR-Development/HDR-Nightlies). If all you intend to do is play the normal release like most users, you're already in the right place and should go to the [release page here](https://github.com/HDR-Development/HDR-Releases/releases) to download the HDR installer.
 If you want to playtest our latest changes, feel free to install the nightly and report any issues you have with it via GitHub issues on the main repository [(HewDraw-Remix.)](https://github.com/HDR-Development/HewDraw-Remix)
  
 ## Installation
