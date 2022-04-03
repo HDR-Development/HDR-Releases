@@ -13,7 +13,7 @@ If you want to playtest our latest changes, feel free to install the nightly and
 If you are installing on a modded Nintendo Switch, follow the [tutorial on the YouTube channel](https://www.youtube.com/watch?v=jBb8jA4WfHA).
 If you have not modded your Nintendo Switch before, use [this tutorial to mod it from scratch](https://gamebanana.com/tuts/13767).
 
-Please note the HDR tutorial is slightly outdated because the `switch-release.zip` package is all you will need to extract and copy to the SD card if your Switch is already modded with Atmosphere CFW. If this was done correctly, you should be greeted by the HDR launcher and a play button to launch the game. For more information on the launcher [see this demonstration video.](https://www.youtube.com/watch?v=wjBhxIfk2xA) 
+Please note the HDR tutorial is slightly outdated because the `switch-release.zip` package is all you will need to extract and copy to the SD card as long as you have Atmosphere CFW running. If this was done correctly, you should be greeted by the HDR launcher and a play button to launch the game. For more information on the launcher [see this demonstration video.](https://www.youtube.com/watch?v=wjBhxIfk2xA) 
 
 First time users will most likely need to go into the ingame Smash eShop after launching the game for the first time to toggle HDR's folders as seen in the [tutorial mentioned earlier.](https://www.youtube.com/watch?v=jBb8jA4WfHA) 
 
