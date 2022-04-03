@@ -9,7 +9,7 @@ The official stable release channel for HewDraw Remix, the largest and most ambi
 The other repository is dedicated to the [experimental nightly builds](https://github.com/HDR-Development/HDR-Nightlies). If all you intend to do is play the normal release like most users, you're already in the right place and should go to the [release page here](https://github.com/HDR-Development/HDR-Releases/releases) to download the HDR installer.
 If you want to playtest our latest changes, feel free to install the nightly and report any issues you have with it via GitHub issues on the main repository [(HewDraw-Remix.)](https://github.com/HDR-Development/HewDraw-Remix)
  
-## First Time Installation
+## Installation
 If you are installing on a modded Nintendo Switch, follow the [tutorial on the YouTube channel](https://www.youtube.com/watch?v=jBb8jA4WfHA).
 If you have not modded your Nintendo Switch before, use [this tutorial to mod it from scratch](https://gamebanana.com/tuts/13767).
 
