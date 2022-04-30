@@ -22,9 +22,7 @@ First time users will most likely need to go into the ingame Smash eShop after l
 The Yuzu emulator currently does not support Skyline plugins which HDR makes extensive use of. Ryujinx, on the other hand, *does* support Skyline and has comparable performance to Yuzu.
 
 If you are installing on the Ryujinx emulator, make sure to use a fork of Ryujinx that supports Skyline, such as [HDR-Ryujinx](https://github.com/zandm7/Ryujinx-HDR/releases) (an unofficial build not maintained by us or the Ryujinx developers.) 
-You will need to copy the contents of the zip labeled Ryujinx into `\AppData\Roaming\Ryujinx\`.
-
-In the case there is no Ryujinx zip, copy the contents of `switch-release.zip` into the `sdcard` folder. Make sure to delete hdr-launcher.nro if it exists in the plugins folder at `/AppData/Roaming/Ryujinx/mods/contents/01006a800016e000/skyline/romfs/skyline/plugins`, as the emulator doesn't support our launcher.
+You will need to copy the contents of the zip labeled `ryujinx-release.zip` into `\AppData\Roaming\Ryujinx\`.
 
 ### Troubleshooting
 
